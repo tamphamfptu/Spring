@@ -1,0 +1,9 @@
+com\tampvn\springdemoconfig\MySpringMvcDispatcherServletInitializer.class
+com\tampvn\springdemo\Customer.class
+com\tampvn\springdemo\CustomerController.class
+com\tampvn\springdemoconfig\DemoAppConfig.class
+com\tampvn\springdemo\StudentController.class
+com\tampvn\springdemo\Student.class
+com\tampvn\springdemo\HelloWorldController.class
+com\tampvn\springdemo\HomeController.class
+com\tampvn\springdemo\SillyController.class

@@ -1,0 +1,3 @@
+org\tampvn\hibernate\demo\CreateStudentDemo.class
+org\tampvn\hibernate\entity\Student.class
+org\tampvn\hibernate\jdbc\App.class

@@ -1,0 +1,7 @@
+org\tampvn\hibernate\entity\Instructor.class
+org\tampvn\hibernate\demo\CreateDemo.class
+org\tampvn\hibernate\demo\DeleteInstructorDetailDemo.class
+org\tampvn\hibernate\entity\InstructorDetail.class
+org\tampvn\hibernate\demo\DeleteDemo.class
+org\tampvn\hibernate\jdbc\App.class
+org\tampvn\hibernate\demo\GetInstructorDetailDemo.class
